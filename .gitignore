@@ -6,6 +6,10 @@
 build/
 DerivedData/
 
+### Objective-C ###
+# OS X
+.DS_Store
+
 *.xcuserstate
 project.xcworkspace
 xcuserdata
