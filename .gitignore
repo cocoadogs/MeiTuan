@@ -6,9 +6,8 @@
 build/
 DerivedData/
 
-### Objective-C ###
 # OS X
-.DS_Store
+*/.DS_Store
 
 *.xcuserstate
 project.xcworkspace
