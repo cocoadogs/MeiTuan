@@ -19,6 +19,7 @@
 		152403241ED5D8A500459185 /* MTListViewCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = 152403221ED5D8A500459185 /* MTListViewCell.xib */; };
 		1524032C1ED5E15500459185 /* MTNavigationController.m in Sources */ = {isa = PBXBuildFile; fileRef = 1524032B1ED5E15500459185 /* MTNavigationController.m */; };
 		1524032F1ED5ED1500459185 /* MTListViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 1524032E1ED5ED1500459185 /* MTListViewController.m */; };
+		152403311ED6758C00459185 /* rr.gif in Resources */ = {isa = PBXBuildFile; fileRef = 152403301ED6758C00459185 /* rr.gif */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -62,6 +63,7 @@
 		1524032B1ED5E15500459185 /* MTNavigationController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MTNavigationController.m; sourceTree = "<group>"; };
 		1524032D1ED5ED1500459185 /* MTListViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MTListViewController.h; sourceTree = "<group>"; };
 		1524032E1ED5ED1500459185 /* MTListViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MTListViewController.m; sourceTree = "<group>"; };
+		152403301ED6758C00459185 /* rr.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; name = rr.gif; path = ../../../../Desktop/rr.gif; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -112,6 +114,7 @@
 		152402EC1ED5D7B300459185 /* MeiTuan */ = {
 			isa = PBXGroup;
 			children = (
+				152403301ED6758C00459185 /* rr.gif */,
 				152402F01ED5D7B300459185 /* AppDelegate.h */,
 				152402F11ED5D7B300459185 /* AppDelegate.m */,
 				152402F31ED5D7B300459185 /* ViewController.h */,
@@ -264,6 +267,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				152403311ED6758C00459185 /* rr.gif in Resources */,
 				152402FD1ED5D7B300459185 /* LaunchScreen.storyboard in Resources */,
 				152402FA1ED5D7B300459185 /* Assets.xcassets in Resources */,
 				152402F81ED5D7B300459185 /* Main.storyboard in Resources */,
