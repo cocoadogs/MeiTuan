@@ -6,10 +6,6 @@
 build/
 DerivedData/
 
-# OS X
-.DS_Store
-*/.DS_Store
-
 *.xcuserstate
 project.xcworkspace
 xcuserdata
@@ -73,3 +69,6 @@ fastlane/test_output
 # https://github.com/johnno1962/injectionforxcode
 
 iOSInjectionProject/
+
+# OS X
+*/.DS_Store
