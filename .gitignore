@@ -7,6 +7,7 @@ build/
 DerivedData/
 
 # OS X
+.DS_Store
 */.DS_Store
 
 *.xcuserstate
