@@ -17,6 +17,11 @@
 - (void)viewDidLoad {
     [super viewDidLoad];
     // Do any additional setup after loading the view.
+    self.navigationBar.barStyle = UIBarStyleBlack;
+    
+//    [self.navigationBar setBackgroundImage:[UIImage new] forBarMetrics:UIBarMetricsDefault];
+    
+    [self.navigationBar setShadowImage:[UIImage new]];
 }
 
 - (void)didReceiveMemoryWarning {
