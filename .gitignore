@@ -71,4 +71,5 @@ fastlane/test_output
 iOSInjectionProject/
 
 # OS X
+.DS_Store
 */.DS_Store
